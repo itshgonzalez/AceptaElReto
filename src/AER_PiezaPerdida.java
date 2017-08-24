@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Problema168 {
+public class AER_PiezaPerdida {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 
 		BufferedReader teclado = new BufferedReader(new InputStreamReader(System.in));
