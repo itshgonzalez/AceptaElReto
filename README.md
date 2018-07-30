@@ -1,2 +1,2 @@
 ﻿# AceptaElReto
- Problemas de la página web https://aceptaelreto.com
+ Problemas de la página web http://aceptaelreto.com
