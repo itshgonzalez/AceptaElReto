@@ -1,2 +1,2 @@
 ﻿# AceptaElReto
- Problemas de la página web [aceptaelreto](https://www.aceptaelreto.com)
+Programming problems of the website [aceptaelreto](https://www.aceptaelreto.com)
